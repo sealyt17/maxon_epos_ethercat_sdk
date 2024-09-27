@@ -34,6 +34,8 @@ A copy of the license is available in the [LICENSE](LICENSE) file.
 - [ROS Noetic](https://wiki.ros.org/noetic)
 - catkin
 - yaml-cpp
+- pip install --upgrade numpy scipy
+
 
 > Likely to work with [ROS Meolodic](https://wiki.ros.org/melodic) and Ubuntu 18.04 LTS
 
